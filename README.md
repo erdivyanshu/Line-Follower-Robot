@@ -1,5 +1,5 @@
 
-<div align="center"> 
+<div align="center" id="head"> 
 <h1> Line-Follower-Robot </h1>  
   <img src="thumb_2.png"height="220" width="370"><br>
 <h2>Team Name : RECREATOR</h2></div>
@@ -9,9 +9,10 @@ In this project, we design the <i>line follower robot which follows black line i
 </p>
 
 <h1>
-  <div id="Table">Table of Content</div></h1>
+  <div id="table">Table of Content</div></h1>
 <ul>
-<!--   <li><a href="#Table"> Table of Content</a></li> -->
+  <li><a href="#table"> Table of Content</a></li>
+  <li><a href="#head"> Line-Follower-Robot</a></li>
   <li><a href="#ARENA"> Arena</a></li>
   <li><a href="#Robot"> Robot, Sensor and Views</a></li>
   <li><a href="#Algorithem"> Algorithem</a></li>
@@ -25,7 +26,7 @@ In this project, we design the <i>line follower robot which follows black line i
 
 <h1>
   <div id="Robot">Robot, Sensor and Views</div></h1>
-<div align="center">
+<div>
 <img src="LFC_robot.png"height="250" width="420">
 <img src="LFC_sensor.png"height="250" width="420">
 <img src="1.png"height="250" width="420">
