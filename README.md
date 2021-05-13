@@ -25,7 +25,7 @@ In this project, we design the <i>line follower robot which follows black line i
 
 <h1>
   <div id="Robot">Robot, Sensor and Views</div></h1>
-<div>
+<div align="center">
 <img src="LFC_robot.png"height="250" width="420">
 <img src="LFC_sensor.png"height="250" width="420">
 <img src="1.png"height="250" width="420">
