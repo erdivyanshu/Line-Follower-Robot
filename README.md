@@ -1,7 +1,7 @@
 
 <div align="center" id="head"> 
 <h1> Line-Follower-Robot </h1>  
-  <img src="./thumb_2.png"height="220" width="370"><br>
+  <img src="./thumb_2.png"height="220" width="370" alt="logo image"><br>
 <h2>Team Name : RECREATOR</h2></div>
 <p>
   <b>Line follower Robot</b> is an autonomous robot which follows either black line in white area or white line in black area. Robot must be able to detect particular line and keep following it.<br> 
@@ -29,10 +29,10 @@ In this project, we design the <i>line follower robot which follows black line i
 <h1>
   <div id="Robot">Robot, Sensor and Views</div></h1>
 <div>
-<img src="./LFC_robot.png"height="250" width="420">
-<img src="./LFC_sensor.png"height="250" width="420">
-<img src="./1.png"height="250" width="420">
-<img src="./2.png"height="250" width="420">
+<img src="./LFC_robot.png"height="250" width="420" alt="robot design image">
+<img src="./LFC_sensor.png"height="250" width="420" alt="robot_sensor">
+<img src="./1.png"height="250" width="420" alt="track_1">
+<img src="./2.png"height="250" width="420" alt="track_2">
 </div>
 
 <h1>
@@ -48,7 +48,7 @@ right.</p>
 <h1>
   <div id="vi">Robot On Track </div></h1>
   Watch my Robot running on given track.
-  <a href="https://drive.google.com/file/d/1OVS8dSMOYkzItjtEzK5QLyf0a5KHxLyE/view?usp=sharing">Click here</a></h1>
+  <a href="https://drive.google.com/file/d/1OVS8dSMOYkzItjtEzK5QLyf0a5KHxLyE/view?usp=sharing">Click here</a>
   
 <h1>
   <div id="Team-Member">Team-Member</div></h1>
